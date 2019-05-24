@@ -47,4 +47,4 @@ Usage Notes or examples
 * What assertions need to be / should be made?
 
 #### UML
-![UML of Data Flow](./assets/uml.jpeg)
+![UML of Data Flow](./assets/UML.jpeg)
