@@ -7,9 +7,9 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-js/lab-09-api-server/pull/1)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [travis](https://www.travis-ci.com/401-advanced-javascript-js/lab-09-api-server)
+<!-- * [back-end](http://xyz.com) (when applicable)
+* [front-end](http://xyz.com) (when applicable) -->
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
@@ -40,6 +40,9 @@ Usage Notes or examples
   
 #### Tests
 * How do you run tests?
+
+  `npm test`
+
 * What assertions were made?
 * What assertions need to be / should be made?
 
