@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "API Server",
-    "description": "The worlds funnest little API",
+    "description": "A Simple API",
     "version": "1.0.0"
   },
   "servers": [
