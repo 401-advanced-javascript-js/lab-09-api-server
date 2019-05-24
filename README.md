@@ -8,8 +8,8 @@
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-js/lab-09-api-server/pull/2)
 * [travis](https://www.travis-ci.com/401-advanced-javascript-js/lab-09-api-server)
-<!-- * [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable) -->
+* [back-end](http://api-server-js.herokuapp.com/api/v1/)
+<!-- * [front-end](http://xyz.com) (when applicable) -->
 
 #### Documentation
 * [api docs](http://api-server-js.herokuapp.com/api/v1/api-docs/)
