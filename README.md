@@ -6,15 +6,14 @@
 ### Author: Jagdeep Singh
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-js/lab-09-api-server/pull/1)
+* [submission PR](https://github.com/401-advanced-javascript-js/lab-09-api-server/pull/2)
 * [travis](https://www.travis-ci.com/401-advanced-javascript-js/lab-09-api-server)
 <!-- * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable) -->
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [jsdoc](http://xyz.com) (https://401-advanced-javascript-js.github.io/lab-09-api-server/)
 
 ### Modules
 #### `modulename.js`
