@@ -48,4 +48,4 @@
   `npm test`
 
 #### UML
-![UML of Data Flow](./assets/uml.jpeg)
+![UML of Data Flow](./assets/UML.jpeg)
