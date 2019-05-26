@@ -6,25 +6,14 @@
 ### Author: Jagdeep Singh
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-js/lab-09-api-server/pull/1)
+* [submission PR](https://github.com/401-advanced-javascript-js/lab-09-api-server/pull/2)
 * [travis](https://www.travis-ci.com/401-advanced-javascript-js/lab-09-api-server)
-<!-- * [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable) -->
+* [back-end](http://api-server-js.herokuapp.com/api/v1/)
+<!-- * [front-end](http://xyz.com) (when applicable) -->
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+* [api docs](http://api-server-js.herokuapp.com/api/v1/api-docs/)
+* [jsdoc](https://401-advanced-javascript-js.github.io/lab-09-api-server/)
 
 ### Setup
 #### `.env` requirements
@@ -33,18 +22,30 @@ Usage Notes or examples
 
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+
+  Endpoint: `/api/v1/categories`
+    * returns all categories
+
+  Endpoint: `/api/v1/categories/:id`
+    * returns category with passed id
+
+  Endpoint: `/api/v1/players`
+    * returns all players
+
+  Endpoint: `/api/v1/players/:id`
+    * returns player with passed id
+
+  Endpoint: `/api/v1/teams`
+    * returns all teams
+
+  Endpoint: `/api/v1/teams/:id`
+    * returns team with passed id
   
+
 #### Tests
 * How do you run tests?
 
   `npm test`
-
-* What assertions were made?
-* What assertions need to be / should be made?
 
 #### UML
 ![UML of Data Flow](./assets/UML.jpeg)
